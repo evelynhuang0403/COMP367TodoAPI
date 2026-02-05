@@ -4,6 +4,7 @@
     {
         public long Id { get; set; }
         public string? Name { get; set; }
-        public bool IsComplete { get; set; }
+        public bool IsComplete { get; set; } 
+        // Update C# Codes for quiz 2
     }
 }
